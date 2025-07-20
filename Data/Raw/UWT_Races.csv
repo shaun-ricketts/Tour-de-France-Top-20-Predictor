@@ -1,0 +1,465 @@
+YEAR,DATE,CAT,RACE,WINNER,RACE_URL
+2011,18.01-23.01,2.UWT,Tour Down Under,C. Meyer,https://firstcycling.com/race.php?r=1&y=2011
+2011,06.03-13.03,2.UWT,Paris-Nice,T. Martin,https://firstcycling.com/race.php?r=2&y=2011
+2011,09.03-15.03,2.UWT,Tirreno-Adriatico,C. Evans,https://firstcycling.com/race.php?r=3&y=2011
+2011,19.03,1.UWT,Milano-Sanremo,M. Goss,https://firstcycling.com/race.php?r=4&y=2011
+2011,21.03-27.03,2.UWT,Volta Catalunya,A. Contador,https://firstcycling.com/race.php?r=14&y=2011
+2011,27.03,1.UWT,Gent - Wevelgem,T. Boonen,https://firstcycling.com/race.php?r=7&y=2011
+2011,03.04,1.UWT,Ronde van Vlaanderen,N. Nuyens,https://firstcycling.com/race.php?r=5&y=2011
+2011,04.04-09.04,2.UWT,Itzulia Basque Country,A. Klöden,https://firstcycling.com/race.php?r=6&y=2011
+2011,10.04,1.UWT,Paris-Roubaix,J. Vansummeren,https://firstcycling.com/race.php?r=8&y=2011
+2011,17.04,1.UWT,Amstel Gold Race,P. Gilbert,https://firstcycling.com/race.php?r=9&y=2011
+2011,20.04,1.UWT,La Flèche Wallonne,P. Gilbert,https://firstcycling.com/race.php?r=10&y=2011
+2011,24.04,1.UWT,Liège-Bastogne-Liège,P. Gilbert,https://firstcycling.com/race.php?r=11&y=2011
+2011,26.04-01.05,2.UWT,Tour de Romandie,C. Evans,https://firstcycling.com/race.php?r=12&y=2011
+2011,07.05-29.05,2.UWT,Giro d'Italia,R. DSQ,https://firstcycling.com/race.php?r=13&y=2011
+2011,05.06-12.06,2.UWT,Critérium du Dauphiné,B. Wiggins,https://firstcycling.com/race.php?r=15&y=2011
+2011,11.06-19.06,2.UWT,Tour de Suisse,L. Leipheimer,https://firstcycling.com/race.php?r=16&y=2011
+2011,02.07-24.07,2.UWT,Tour de France,C. Evans,https://firstcycling.com/race.php?r=17&y=2011
+2011,30.07,1.UWT,San Sebastian Klasikoa,P. Gilbert,https://firstcycling.com/race.php?r=18&y=2011
+2011,31.07-06.08,2.UWT,Tour de Pologne,P. Sagan,https://firstcycling.com/race.php?r=19&y=2011
+2011,08.08-14.08,2.UWT,Renewi Tour,E. Boasson-Hagen,https://firstcycling.com/race.php?r=21&y=2011
+2011,20.08-11.09,2.UWT,Vuelta a España,R. DSQ,https://firstcycling.com/race.php?r=23&y=2011
+2011,21.08,1.UWT,BEMER Cyclassics,E. Boasson-Hagen,https://firstcycling.com/race.php?r=20&y=2011
+2011,28.08,1.UWT,Bretagne Classic,G. Bole,https://firstcycling.com/race.php?r=22&y=2011
+2011,09.09,1.UWT,GP Québec,P. Gilbert,https://firstcycling.com/race.php?r=59&y=2011
+2011,11.09,1.UWT,GP Montreal,R. Costa,https://firstcycling.com/race.php?r=58&y=2011
+2011,05.10-09.10,2.UWT,Tour of Beijing,T. Martin,https://firstcycling.com/race.php?r=69&y=2011
+2011,15.10,1.UWT,Il Lombardia,O. Zaugg,https://firstcycling.com/race.php?r=24&y=2011
+2012,17.01-22.01,2.UWT,Tour Down Under,S. Gerrans,https://firstcycling.com/race.php?r=1&y=2012
+2012,04.03-11.03,2.UWT,Paris-Nice,B. Wiggins,https://firstcycling.com/race.php?r=2&y=2012
+2012,07.03-13.03,2.UWT,Tirreno-Adriatico,V. Nibali,https://firstcycling.com/race.php?r=3&y=2012
+2012,17.03,1.UWT,Milano-Sanremo,S. Gerrans,https://firstcycling.com/race.php?r=4&y=2012
+2012,19.03-25.03,2.UWT,Volta Catalunya,M. Albasini,https://firstcycling.com/race.php?r=14&y=2012
+2012,23.03,1.UWT,E3 Saxo Classic,T. Boonen,https://firstcycling.com/race.php?r=47&y=2012
+2012,25.03,1.UWT,Gent - Wevelgem,T. Boonen,https://firstcycling.com/race.php?r=7&y=2012
+2012,01.04,1.UWT,Ronde van Vlaanderen,T. Boonen,https://firstcycling.com/race.php?r=5&y=2012
+2012,02.04-07.04,2.UWT,Itzulia Basque Country,S. Sánchez,https://firstcycling.com/race.php?r=6&y=2012
+2012,08.04,1.UWT,Paris-Roubaix,T. Boonen,https://firstcycling.com/race.php?r=8&y=2012
+2012,15.04,1.UWT,Amstel Gold Race,E. Gasparotto,https://firstcycling.com/race.php?r=9&y=2012
+2012,18.04,1.UWT,La Flèche Wallonne,J. Rodríguez,https://firstcycling.com/race.php?r=10&y=2012
+2012,22.04,1.UWT,Liège-Bastogne-Liège,M. Iglinskiy,https://firstcycling.com/race.php?r=11&y=2012
+2012,24.04-29.04,2.UWT,Tour de Romandie,B. Wiggins,https://firstcycling.com/race.php?r=12&y=2012
+2012,05.05-27.05,2.UWT,Giro d'Italia,R. Hesjedal,https://firstcycling.com/race.php?r=13&y=2012
+2012,03.06-10.06,2.UWT,Critérium du Dauphiné,B. Wiggins,https://firstcycling.com/race.php?r=15&y=2012
+2012,09.06-17.06,2.UWT,Tour de Suisse,R. Costa,https://firstcycling.com/race.php?r=16&y=2012
+2012,30.06-22.07,2.UWT,Tour de France,B. Wiggins,https://firstcycling.com/race.php?r=17&y=2012
+2012,10.07-16.07,2.UWT,Tour de Pologne,M. Moser,https://firstcycling.com/race.php?r=19&y=2012
+2012,06.08-12.08,2.UWT,Renewi Tour,L. Boom,https://firstcycling.com/race.php?r=21&y=2012
+2012,14.08,1.UWT,San Sebastian Klasikoa,L. Sánchez,https://firstcycling.com/race.php?r=18&y=2012
+2012,18.08-09.09,2.UWT,Vuelta a España,A. Contador,https://firstcycling.com/race.php?r=23&y=2012
+2012,19.08,1.UWT,BEMER Cyclassics,A. Démare,https://firstcycling.com/race.php?r=20&y=2012
+2012,26.08,1.UWT,Bretagne Classic,E. Boasson-Hagen,https://firstcycling.com/race.php?r=22&y=2012
+2012,07.09,1.UWT,GP Québec,S. Gerrans,https://firstcycling.com/race.php?r=59&y=2012
+2012,09.09,1.UWT,GP Montreal,L. Nordhaug,https://firstcycling.com/race.php?r=58&y=2012
+2012,29.09,1.UWT,Il Lombardia,J. Rodríguez,https://firstcycling.com/race.php?r=24&y=2012
+2012,09.10-13.10,2.UWT,Tour of Beijing,T. Martin,https://firstcycling.com/race.php?r=69&y=2012
+2013,22.01-27.01,2.UWT,Tour Down Under,T. Slagter,https://firstcycling.com/race.php?r=1&y=2013
+2013,03.03-10.03,2.UWT,Paris-Nice,R. Porte,https://firstcycling.com/race.php?r=2&y=2013
+2013,06.03-12.03,2.UWT,Tirreno-Adriatico,V. Nibali,https://firstcycling.com/race.php?r=3&y=2013
+2013,17.03,1.UWT,Milano-Sanremo,G. Ciolek,https://firstcycling.com/race.php?r=4&y=2013
+2013,18.03-24.03,2.UWT,Volta Catalunya,D. Martin,https://firstcycling.com/race.php?r=14&y=2013
+2013,22.03,1.UWT,E3 Saxo Classic,F. Cancellara,https://firstcycling.com/race.php?r=47&y=2013
+2013,24.03,1.UWT,Gent - Wevelgem,P. Sagan,https://firstcycling.com/race.php?r=7&y=2013
+2013,31.03,1.UWT,Ronde van Vlaanderen,F. Cancellara,https://firstcycling.com/race.php?r=5&y=2013
+2013,01.04-06.04,2.UWT,Itzulia Basque Country,N. Quintana,https://firstcycling.com/race.php?r=6&y=2013
+2013,07.04,1.UWT,Paris-Roubaix,F. Cancellara,https://firstcycling.com/race.php?r=8&y=2013
+2013,14.04,1.UWT,Amstel Gold Race,R. Kreuziger,https://firstcycling.com/race.php?r=9&y=2013
+2013,17.04,1.UWT,La Flèche Wallonne,D. Moreno,https://firstcycling.com/race.php?r=10&y=2013
+2013,21.04,1.UWT,Liège-Bastogne-Liège,D. Martin,https://firstcycling.com/race.php?r=11&y=2013
+2013,23.04-28.04,2.UWT,Tour de Romandie,C. Froome,https://firstcycling.com/race.php?r=12&y=2013
+2013,04.05-26.05,2.UWT,Giro d'Italia,V. Nibali,https://firstcycling.com/race.php?r=13&y=2013
+2013,02.06-09.06,2.UWT,Critérium du Dauphiné,C. Froome,https://firstcycling.com/race.php?r=15&y=2013
+2013,08.06-16.06,2.UWT,Tour de Suisse,R. Costa,https://firstcycling.com/race.php?r=16&y=2013
+2013,29.06-21.07,2.UWT,Tour de France,C. Froome,https://firstcycling.com/race.php?r=17&y=2013
+2013,27.07,1.UWT,San Sebastian Klasikoa,T. Gallopin,https://firstcycling.com/race.php?r=18&y=2013
+2013,27.07-03.08,2.UWT,Tour de Pologne,P. Weening,https://firstcycling.com/race.php?r=19&y=2013
+2013,12.08-18.08,2.UWT,Renewi Tour,Z. Stybar,https://firstcycling.com/race.php?r=21&y=2013
+2013,24.08-15.09,2.UWT,Vuelta a España,C. Horner,https://firstcycling.com/race.php?r=23&y=2013
+2013,25.08,1.UWT,BEMER Cyclassics,J. Degenkolb,https://firstcycling.com/race.php?r=20&y=2013
+2013,01.09,1.UWT,Bretagne Classic,F. Pozzato,https://firstcycling.com/race.php?r=22&y=2013
+2013,13.09,1.UWT,GP Québec,R. Gesink,https://firstcycling.com/race.php?r=59&y=2013
+2013,15.09,1.UWT,GP Montreal,P. Sagan,https://firstcycling.com/race.php?r=58&y=2013
+2013,06.10,1.UWT,Il Lombardia,J. Rodríguez,https://firstcycling.com/race.php?r=24&y=2013
+2013,11.10-15.10,2.UWT,Tour of Beijing,B. Intxausti,https://firstcycling.com/race.php?r=69&y=2013
+2014,21.01-26.01,2.UWT,Tour Down Under,S. Gerrans,https://firstcycling.com/race.php?r=1&y=2014
+2014,09.03-16.03,2.UWT,Paris-Nice,C. Betancur,https://firstcycling.com/race.php?r=2&y=2014
+2014,12.03-18.03,2.UWT,Tirreno-Adriatico,A. Contador,https://firstcycling.com/race.php?r=3&y=2014
+2014,23.03,1.UWT,Milano-Sanremo,A. Kristoff,https://firstcycling.com/race.php?r=4&y=2014
+2014,24.03-30.03,2.UWT,Volta Catalunya,J. Rodríguez,https://firstcycling.com/race.php?r=14&y=2014
+2014,28.03,1.UWT,E3 Saxo Classic,P. Sagan,https://firstcycling.com/race.php?r=47&y=2014
+2014,30.03,1.UWT,Gent - Wevelgem,J. Degenkolb,https://firstcycling.com/race.php?r=7&y=2014
+2014,06.04,1.UWT,Ronde van Vlaanderen,F. Cancellara,https://firstcycling.com/race.php?r=5&y=2014
+2014,07.04-12.04,2.UWT,Itzulia Basque Country,A. Contador,https://firstcycling.com/race.php?r=6&y=2014
+2014,13.04,1.UWT,Paris-Roubaix,N. Terpstra,https://firstcycling.com/race.php?r=8&y=2014
+2014,20.04,1.UWT,Amstel Gold Race,P. Gilbert,https://firstcycling.com/race.php?r=9&y=2014
+2014,23.04,1.UWT,La Flèche Wallonne,A. Valverde,https://firstcycling.com/race.php?r=10&y=2014
+2014,27.04,1.UWT,Liège-Bastogne-Liège,S. Gerrans,https://firstcycling.com/race.php?r=11&y=2014
+2014,29.04-04.05,2.UWT,Tour de Romandie,C. Froome,https://firstcycling.com/race.php?r=12&y=2014
+2014,09.05-01.06,2.UWT,Giro d'Italia,N. Quintana,https://firstcycling.com/race.php?r=13&y=2014
+2014,08.06-15.06,2.UWT,Critérium du Dauphiné,A. Talansky,https://firstcycling.com/race.php?r=15&y=2014
+2014,14.06-22.06,2.UWT,Tour de Suisse,R. Costa,https://firstcycling.com/race.php?r=16&y=2014
+2014,05.07-27.07,2.UWT,Tour de France,V. Nibali,https://firstcycling.com/race.php?r=17&y=2014
+2014,02.08,1.UWT,San Sebastian Klasikoa,A. Valverde,https://firstcycling.com/race.php?r=18&y=2014
+2014,03.08-09.08,2.UWT,Tour de Pologne,R. Majka,https://firstcycling.com/race.php?r=19&y=2014
+2014,11.08-17.08,2.UWT,Renewi Tour,T. Wellens,https://firstcycling.com/race.php?r=21&y=2014
+2014,23.08-14.09,2.UWT,Vuelta a España,A. Contador,https://firstcycling.com/race.php?r=23&y=2014
+2014,24.08,1.UWT,BEMER Cyclassics,A. Kristoff,https://firstcycling.com/race.php?r=20&y=2014
+2014,31.08,1.UWT,Bretagne Classic,S. Chavanel,https://firstcycling.com/race.php?r=22&y=2014
+2014,12.09,1.UWT,GP Québec,S. Gerrans,https://firstcycling.com/race.php?r=59&y=2014
+2014,14.09,1.UWT,GP Montreal,S. Gerrans,https://firstcycling.com/race.php?r=58&y=2014
+2014,05.10,1.UWT,Il Lombardia,D. Martin,https://firstcycling.com/race.php?r=24&y=2014
+2014,10.10-14.10,2.UWT,Tour of Beijing,P. Gilbert,https://firstcycling.com/race.php?r=69&y=2014
+2015,20.01-25.01,2.UWT,Tour Down Under,R. Dennis,https://firstcycling.com/race.php?r=1&y=2015
+2015,08.03-15.03,2.UWT,Paris-Nice,R. Porte,https://firstcycling.com/race.php?r=2&y=2015
+2015,11.03-17.03,2.UWT,Tirreno-Adriatico,N. Quintana,https://firstcycling.com/race.php?r=3&y=2015
+2015,22.03,1.UWT,Milano-Sanremo,J. Degenkolb,https://firstcycling.com/race.php?r=4&y=2015
+2015,23.03-29.03,2.UWT,Volta Catalunya,R. Porte,https://firstcycling.com/race.php?r=14&y=2015
+2015,27.03,1.UWT,E3 Saxo Classic,G. Thomas,https://firstcycling.com/race.php?r=47&y=2015
+2015,29.03,1.UWT,Gent - Wevelgem,L. Paolini,https://firstcycling.com/race.php?r=7&y=2015
+2015,05.04,1.UWT,Ronde van Vlaanderen,A. Kristoff,https://firstcycling.com/race.php?r=5&y=2015
+2015,06.04-11.04,2.UWT,Itzulia Basque Country,J. Rodríguez,https://firstcycling.com/race.php?r=6&y=2015
+2015,12.04,1.UWT,Paris-Roubaix,J. Degenkolb,https://firstcycling.com/race.php?r=8&y=2015
+2015,19.04,1.UWT,Amstel Gold Race,M. Kwiatkowski,https://firstcycling.com/race.php?r=9&y=2015
+2015,22.04,1.UWT,La Flèche Wallonne,A. Valverde,https://firstcycling.com/race.php?r=10&y=2015
+2015,26.04,1.UWT,Liège-Bastogne-Liège,A. Valverde,https://firstcycling.com/race.php?r=11&y=2015
+2015,28.04-03.05,2.UWT,Tour de Romandie,I. Zakarin,https://firstcycling.com/race.php?r=12&y=2015
+2015,09.05-31.05,2.UWT,Giro d'Italia,A. Contador,https://firstcycling.com/race.php?r=13&y=2015
+2015,07.06-14.06,2.UWT,Critérium du Dauphiné,C. Froome,https://firstcycling.com/race.php?r=15&y=2015
+2015,13.06-21.06,2.UWT,Tour de Suisse,S. Spilak,https://firstcycling.com/race.php?r=16&y=2015
+2015,04.07-26.07,2.UWT,Tour de France,C. Froome,https://firstcycling.com/race.php?r=17&y=2015
+2015,01.08,1.UWT,San Sebastian Klasikoa,A. Yates,https://firstcycling.com/race.php?r=18&y=2015
+2015,02.08-08.08,2.UWT,Tour de Pologne,I. Izagirre,https://firstcycling.com/race.php?r=19&y=2015
+2015,10.08-16.08,2.UWT,Renewi Tour,T. Wellens,https://firstcycling.com/race.php?r=21&y=2015
+2015,22.08-13.09,2.UWT,Vuelta a España,F. Aru,https://firstcycling.com/race.php?r=23&y=2015
+2015,23.08,1.UWT,BEMER Cyclassics,A. Greipel,https://firstcycling.com/race.php?r=20&y=2015
+2015,30.08,1.UWT,Bretagne Classic,A. Kristoff,https://firstcycling.com/race.php?r=22&y=2015
+2015,11.09,1.UWT,GP Québec,R. Uran,https://firstcycling.com/race.php?r=59&y=2015
+2015,13.09,1.UWT,GP Montreal,T. Wellens,https://firstcycling.com/race.php?r=58&y=2015
+2015,04.10,1.UWT,Il Lombardia,V. Nibali,https://firstcycling.com/race.php?r=24&y=2015
+2016,19.01-24.01,2.UWT,Tour Down Under,S. Gerrans,https://firstcycling.com/race.php?r=1&y=2016
+2016,06.03-13.03,2.UWT,Paris-Nice,G. Thomas,https://firstcycling.com/race.php?r=2&y=2016
+2016,09.03-15.03,2.UWT,Tirreno-Adriatico,G. Van Avermaet,https://firstcycling.com/race.php?r=3&y=2016
+2016,19.03,1.UWT,Milano-Sanremo,A. Démare,https://firstcycling.com/race.php?r=4&y=2016
+2016,21.03-27.03,2.UWT,Volta Catalunya,N. Quintana,https://firstcycling.com/race.php?r=14&y=2016
+2016,25.03,1.UWT,E3 Saxo Classic,M. Kwiatkowski,https://firstcycling.com/race.php?r=47&y=2016
+2016,27.03,1.UWT,Gent - Wevelgem,P. Sagan,https://firstcycling.com/race.php?r=7&y=2016
+2016,03.04,1.UWT,Ronde van Vlaanderen,P. Sagan,https://firstcycling.com/race.php?r=5&y=2016
+2016,04.04-09.04,2.UWT,Itzulia Basque Country,A. Contador,https://firstcycling.com/race.php?r=6&y=2016
+2016,10.04,1.UWT,Paris-Roubaix,M. Hayman,https://firstcycling.com/race.php?r=8&y=2016
+2016,17.04,1.UWT,Amstel Gold Race,E. Gasparotto,https://firstcycling.com/race.php?r=9&y=2016
+2016,20.04,1.UWT,La Flèche Wallonne,A. Valverde,https://firstcycling.com/race.php?r=10&y=2016
+2016,24.04,1.UWT,Liège-Bastogne-Liège,W. Poels,https://firstcycling.com/race.php?r=11&y=2016
+2016,26.04-01.05,2.UWT,Tour de Romandie,N. Quintana,https://firstcycling.com/race.php?r=12&y=2016
+2016,06.05-29.05,2.UWT,Giro d'Italia,V. Nibali,https://firstcycling.com/race.php?r=13&y=2016
+2016,05.06-12.06,2.UWT,Critérium du Dauphiné,C. Froome,https://firstcycling.com/race.php?r=15&y=2016
+2016,11.06-19.06,2.UWT,Tour de Suisse,M. López,https://firstcycling.com/race.php?r=16&y=2016
+2016,02.07-24.07,2.UWT,Tour de France,C. Froome,https://firstcycling.com/race.php?r=17&y=2016
+2016,12.07-18.07,2.UWT,Tour de Pologne,T. Wellens,https://firstcycling.com/race.php?r=19&y=2016
+2016,30.07,1.UWT,San Sebastian Klasikoa,B. Mollema,https://firstcycling.com/race.php?r=18&y=2016
+2016,20.08-11.09,2.UWT,Vuelta a España,N. Quintana,https://firstcycling.com/race.php?r=23&y=2016
+2016,21.08,1.UWT,BEMER Cyclassics,C. Ewan,https://firstcycling.com/race.php?r=20&y=2016
+2016,28.08,1.UWT,Bretagne Classic,O. Naesen,https://firstcycling.com/race.php?r=22&y=2016
+2016,09.09,1.UWT,GP Québec,P. Sagan,https://firstcycling.com/race.php?r=59&y=2016
+2016,11.09,1.UWT,GP Montreal,G. Van Avermaet,https://firstcycling.com/race.php?r=58&y=2016
+2016,19.09-25.09,2.UWT,Renewi Tour,N. Terpstra,https://firstcycling.com/race.php?r=21&y=2016
+2016,01.10,1.UWT,Il Lombardia,E. Chaves,https://firstcycling.com/race.php?r=24&y=2016
+2017,17.01-22.01,2.UWT,Tour Down Under,R. Porte,https://firstcycling.com/race.php?r=1&y=2017
+2017,29.01,1.UWT,Cadel Evans Road Race,N. Arndt,https://firstcycling.com/race.php?r=1172&y=2017
+2017,23.02-26.02,2.UWT,Abu Dhabi Tour,R. Costa,https://firstcycling.com/race.php?r=3827&y=2017
+2017,25.02,1.UWT,Omloop Het Nieuwsblad,G. Van Avermaet,https://firstcycling.com/race.php?r=53&y=2017
+2017,04.03,1.UWT,Strade Bianche,M. Kwiatkowski,https://firstcycling.com/race.php?r=54&y=2017
+2017,05.03-12.03,2.UWT,Paris-Nice,S. Henao,https://firstcycling.com/race.php?r=2&y=2017
+2017,08.03-14.03,2.UWT,Tirreno-Adriatico,N. Quintana,https://firstcycling.com/race.php?r=3&y=2017
+2017,18.03,1.UWT,Milano-Sanremo,M. Kwiatkowski,https://firstcycling.com/race.php?r=4&y=2017
+2017,20.03-26.03,2.UWT,Volta Catalunya,A. Valverde,https://firstcycling.com/race.php?r=14&y=2017
+2017,22.03,1.UWT,Dwars door Vlaanderen,Y. Lampaert,https://firstcycling.com/race.php?r=75&y=2017
+2017,24.03,1.UWT,E3 Saxo Classic,G. Van Avermaet,https://firstcycling.com/race.php?r=47&y=2017
+2017,26.03,1.UWT,Gent - Wevelgem,G. Van Avermaet,https://firstcycling.com/race.php?r=7&y=2017
+2017,02.04,1.UWT,Ronde van Vlaanderen,P. Gilbert,https://firstcycling.com/race.php?r=5&y=2017
+2017,03.04-08.04,2.UWT,Itzulia Basque Country,A. Valverde,https://firstcycling.com/race.php?r=6&y=2017
+2017,09.04,1.UWT,Paris-Roubaix,G. Van Avermaet,https://firstcycling.com/race.php?r=8&y=2017
+2017,16.04,1.UWT,Amstel Gold Race,P. Gilbert,https://firstcycling.com/race.php?r=9&y=2017
+2017,19.04,1.UWT,La Flèche Wallonne,A. Valverde,https://firstcycling.com/race.php?r=10&y=2017
+2017,23.04,1.UWT,Liège-Bastogne-Liège,A. Valverde,https://firstcycling.com/race.php?r=11&y=2017
+2017,25.04-30.04,2.UWT,Tour de Romandie,R. Porte,https://firstcycling.com/race.php?r=12&y=2017
+2017,01.05,1.UWT,Eschborn-Frankfurt,A. Kristoff,https://firstcycling.com/race.php?r=35&y=2017
+2017,05.05-28.05,2.UWT,Giro d'Italia,T. Dumoulin,https://firstcycling.com/race.php?r=13&y=2017
+2017,14.05-20.05,2.UWT,Tour of California,G. Bennett,https://firstcycling.com/race.php?r=30&y=2017
+2017,04.06-11.06,2.UWT,Critérium du Dauphiné,J. Fuglsang,https://firstcycling.com/race.php?r=15&y=2017
+2017,10.06-18.06,2.UWT,Tour de Suisse,S. Spilak,https://firstcycling.com/race.php?r=16&y=2017
+2017,01.07-23.07,2.UWT,Tour de France,C. Froome,https://firstcycling.com/race.php?r=17&y=2017
+2017,29.07,1.UWT,San Sebastian Klasikoa,M. Kwiatkowski,https://firstcycling.com/race.php?r=18&y=2017
+2017,29.07-04.08,2.UWT,Tour de Pologne,D. Teuns,https://firstcycling.com/race.php?r=19&y=2017
+2017,30.07,1.UWT,Ride London Classic,A. Kristoff,https://firstcycling.com/race.php?r=261&y=2017
+2017,07.08-13.08,2.UWT,Renewi Tour,T. Dumoulin,https://firstcycling.com/race.php?r=21&y=2017
+2017,19.08-10.09,2.UWT,Vuelta a España,C. Froome,https://firstcycling.com/race.php?r=23&y=2017
+2017,20.08,1.UWT,BEMER Cyclassics,E. Viviani,https://firstcycling.com/race.php?r=20&y=2017
+2017,27.08,1.UWT,Bretagne Classic,E. Viviani,https://firstcycling.com/race.php?r=22&y=2017
+2017,08.09,1.UWT,GP Québec,P. Sagan,https://firstcycling.com/race.php?r=59&y=2017
+2017,10.09,1.UWT,GP Montreal,D. Ulissi,https://firstcycling.com/race.php?r=58&y=2017
+2017,07.10,1.UWT,Il Lombardia,V. Nibali,https://firstcycling.com/race.php?r=24&y=2017
+2017,10.10-15.10,2.UWT,Tour of Türkiye,D. Ulissi,https://firstcycling.com/race.php?r=152&y=2017
+2017,19.10-24.10,2.UWT,Gree - Tour of Guangxi,T. Wellens,https://firstcycling.com/race.php?r=7591&y=2017
+2018,16.01-21.01,2.UWT,Tour Down Under,D. Impey,https://firstcycling.com/race.php?r=1&y=2018
+2018,28.01,1.UWT,Cadel Evans Road Race,J. McCarthy,https://firstcycling.com/race.php?r=1172&y=2018
+2018,21.02-25.02,2.UWT,Abu Dhabi Tour,A. Valverde,https://firstcycling.com/race.php?r=3827&y=2018
+2018,24.02,1.UWT,Omloop Het Nieuwsblad,M. Valgren,https://firstcycling.com/race.php?r=53&y=2018
+2018,03.03,1.UWT,Strade Bianche,T. Benoot,https://firstcycling.com/race.php?r=54&y=2018
+2018,04.03-11.03,2.UWT,Paris-Nice,M. Soler,https://firstcycling.com/race.php?r=2&y=2018
+2018,07.03-13.03,2.UWT,Tirreno-Adriatico,M. Kwiatkowski,https://firstcycling.com/race.php?r=3&y=2018
+2018,17.03,1.UWT,Milano-Sanremo,V. Nibali,https://firstcycling.com/race.php?r=4&y=2018
+2018,19.03-25.03,2.UWT,Volta Catalunya,A. Valverde,https://firstcycling.com/race.php?r=14&y=2018
+2018,23.03,1.UWT,E3 Saxo Classic,N. Terpstra,https://firstcycling.com/race.php?r=47&y=2018
+2018,25.03,1.UWT,Gent - Wevelgem,P. Sagan,https://firstcycling.com/race.php?r=7&y=2018
+2018,28.03,1.UWT,Dwars door Vlaanderen,Y. Lampaert,https://firstcycling.com/race.php?r=75&y=2018
+2018,01.04,1.UWT,Ronde van Vlaanderen,N. Terpstra,https://firstcycling.com/race.php?r=5&y=2018
+2018,02.04-07.04,2.UWT,Itzulia Basque Country,P. Roglic,https://firstcycling.com/race.php?r=6&y=2018
+2018,08.04,1.UWT,Paris-Roubaix,P. Sagan,https://firstcycling.com/race.php?r=8&y=2018
+2018,15.04,1.UWT,Amstel Gold Race,M. Valgren,https://firstcycling.com/race.php?r=9&y=2018
+2018,18.04,1.UWT,La Flèche Wallonne,J. Alaphilippe,https://firstcycling.com/race.php?r=10&y=2018
+2018,22.04,1.UWT,Liège-Bastogne-Liège,B. Jungels,https://firstcycling.com/race.php?r=11&y=2018
+2018,24.04-29.04,2.UWT,Tour de Romandie,P. Roglic,https://firstcycling.com/race.php?r=12&y=2018
+2018,01.05,1.UWT,Eschborn-Frankfurt,A. Kristoff,https://firstcycling.com/race.php?r=35&y=2018
+2018,04.05-27.05,2.UWT,Giro d'Italia,C. Froome,https://firstcycling.com/race.php?r=13&y=2018
+2018,13.05-19.05,2.UWT,Tour of California,E. Bernal,https://firstcycling.com/race.php?r=30&y=2018
+2018,03.06-10.06,2.UWT,Critérium du Dauphiné,G. Thomas,https://firstcycling.com/race.php?r=15&y=2018
+2018,09.06-17.06,2.UWT,Tour de Suisse,R. Porte,https://firstcycling.com/race.php?r=16&y=2018
+2018,07.07-29.07,2.UWT,Tour de France,G. Thomas,https://firstcycling.com/race.php?r=17&y=2018
+2018,29.07,1.UWT,Ride London Classic,P. Ackermann,https://firstcycling.com/race.php?r=261&y=2018
+2018,04.08,1.UWT,San Sebastian Klasikoa,J. Alaphilippe,https://firstcycling.com/race.php?r=18&y=2018
+2018,04.08-10.08,2.UWT,Tour de Pologne,M. Kwiatkowski,https://firstcycling.com/race.php?r=19&y=2018
+2018,13.08-19.08,2.UWT,Renewi Tour,M. Mohoric,https://firstcycling.com/race.php?r=21&y=2018
+2018,19.08,1.UWT,BEMER Cyclassics,E. Viviani,https://firstcycling.com/race.php?r=20&y=2018
+2018,25.08-16.09,2.UWT,Vuelta a España,S. Yates,https://firstcycling.com/race.php?r=23&y=2018
+2018,26.08,1.UWT,Bretagne Classic,O. Naesen,https://firstcycling.com/race.php?r=22&y=2018
+2018,07.09,1.UWT,GP Québec,M. Matthews,https://firstcycling.com/race.php?r=59&y=2018
+2018,09.09,1.UWT,GP Montreal,M. Matthews,https://firstcycling.com/race.php?r=58&y=2018
+2018,09.10-14.10,2.UWT,Tour of Türkiye,E. Prades,https://firstcycling.com/race.php?r=152&y=2018
+2018,13.10,1.UWT,Il Lombardia,T. Pinot,https://firstcycling.com/race.php?r=24&y=2018
+2018,16.10-21.10,2.UWT,Gree - Tour of Guangxi,G. Moscon,https://firstcycling.com/race.php?r=7591&y=2018
+2019,15.01-20.01,2.UWT,Tour Down Under,D. Impey,https://firstcycling.com/race.php?r=1&y=2019
+2019,27.01,1.UWT,Cadel Evans Road Race,E. Viviani,https://firstcycling.com/race.php?r=1172&y=2019
+2019,24.02-02.03,2.UWT,UAE Tour,P. Roglic,https://firstcycling.com/race.php?r=9800&y=2019
+2019,02.03,1.UWT,Omloop Het Nieuwsblad,Z. Stybar,https://firstcycling.com/race.php?r=53&y=2019
+2019,09.03,1.UWT,Strade Bianche,J. Alaphilippe,https://firstcycling.com/race.php?r=54&y=2019
+2019,10.03-17.03,2.UWT,Paris-Nice,E. Bernal,https://firstcycling.com/race.php?r=2&y=2019
+2019,13.03-19.03,2.UWT,Tirreno-Adriatico,P. Roglic,https://firstcycling.com/race.php?r=3&y=2019
+2019,23.03,1.UWT,Milano-Sanremo,J. Alaphilippe,https://firstcycling.com/race.php?r=4&y=2019
+2019,25.03-31.03,2.UWT,Volta Catalunya,M. López,https://firstcycling.com/race.php?r=14&y=2019
+2019,27.03,1.UWT,Classic Brugge-De Panne,D. Groenewegen,https://firstcycling.com/race.php?r=40&y=2019
+2019,29.03,1.UWT,E3 Saxo Classic,Z. Stybar,https://firstcycling.com/race.php?r=47&y=2019
+2019,31.03,1.UWT,Gent - Wevelgem,A. Kristoff,https://firstcycling.com/race.php?r=7&y=2019
+2019,03.04,1.UWT,Dwars door Vlaanderen,M. van der Poel,https://firstcycling.com/race.php?r=75&y=2019
+2019,07.04,1.UWT,Ronde van Vlaanderen,A. Bettiol,https://firstcycling.com/race.php?r=5&y=2019
+2019,08.04-13.04,2.UWT,Itzulia Basque Country,I. Izagirre,https://firstcycling.com/race.php?r=6&y=2019
+2019,14.04,1.UWT,Paris-Roubaix,P. Gilbert,https://firstcycling.com/race.php?r=8&y=2019
+2019,16.04-21.04,2.UWT,Tour of Türkiye,F. Großschartner,https://firstcycling.com/race.php?r=152&y=2019
+2019,21.04,1.UWT,Amstel Gold Race,M. van der Poel,https://firstcycling.com/race.php?r=9&y=2019
+2019,24.04,1.UWT,La Flèche Wallonne,J. Alaphilippe,https://firstcycling.com/race.php?r=10&y=2019
+2019,28.04,1.UWT,Liège-Bastogne-Liège,J. Fuglsang,https://firstcycling.com/race.php?r=11&y=2019
+2019,30.04-05.05,2.UWT,Tour de Romandie,P. Roglic,https://firstcycling.com/race.php?r=12&y=2019
+2019,01.05,1.UWT,Eschborn-Frankfurt,P. Ackermann,https://firstcycling.com/race.php?r=35&y=2019
+2019,11.05-02.06,2.UWT,Giro d'Italia,R. Carapaz,https://firstcycling.com/race.php?r=13&y=2019
+2019,12.05-18.05,2.UWT,Tour of California,T. Pogacar,https://firstcycling.com/race.php?r=30&y=2019
+2019,09.06-16.06,2.UWT,Critérium du Dauphiné,J. Fuglsang,https://firstcycling.com/race.php?r=15&y=2019
+2019,15.06-23.06,2.UWT,Tour de Suisse,E. Bernal,https://firstcycling.com/race.php?r=16&y=2019
+2019,06.07-28.07,2.UWT,Tour de France,E. Bernal,https://firstcycling.com/race.php?r=17&y=2019
+2019,03.08,1.UWT,San Sebastian Klasikoa,R. Evenepoel,https://firstcycling.com/race.php?r=18&y=2019
+2019,03.08-09.08,2.UWT,Tour de Pologne,P. Sivakov,https://firstcycling.com/race.php?r=19&y=2019
+2019,04.08,1.UWT,Ride London Classic,E. Viviani,https://firstcycling.com/race.php?r=261&y=2019
+2019,12.08-18.08,2.UWT,Renewi Tour,L. De Plus,https://firstcycling.com/race.php?r=21&y=2019
+2019,24.08-15.09,2.UWT,Vuelta a España,P. Roglic,https://firstcycling.com/race.php?r=23&y=2019
+2019,25.08,1.UWT,BEMER Cyclassics,E. Viviani,https://firstcycling.com/race.php?r=20&y=2019
+2019,01.09,1.UWT,Bretagne Classic,S. Vanmarcke,https://firstcycling.com/race.php?r=22&y=2019
+2019,13.09,1.UWT,GP Québec,M. Matthews,https://firstcycling.com/race.php?r=59&y=2019
+2019,15.09,1.UWT,GP Montreal,G. Van Avermaet,https://firstcycling.com/race.php?r=58&y=2019
+2019,12.10,1.UWT,Il Lombardia,B. Mollema,https://firstcycling.com/race.php?r=24&y=2019
+2019,17.10-22.10,2.UWT,Gree - Tour of Guangxi,E. Mas,https://firstcycling.com/race.php?r=7591&y=2019
+2020,21.01-26.01,2.UWT,Tour Down Under,R. Porte,https://firstcycling.com/race.php?r=1&y=2020
+2020,02.02,1.UWT,Cadel Evans Road Race,D. Devenyns,https://firstcycling.com/race.php?r=1172&y=2020
+2020,23.02-29.02,2.UWT,UAE Tour,A. Yates,https://firstcycling.com/race.php?r=9800&y=2020
+2020,29.02,1.UWT,Omloop Het Nieuwsblad,J. Stuyven,https://firstcycling.com/race.php?r=53&y=2020
+2020,08.03-15.03,2.UWT,Paris-Nice,M. Schachmann,https://firstcycling.com/race.php?r=2&y=2020
+2020,01.08,1.UWT,Strade Bianche,W. van Aert,https://firstcycling.com/race.php?r=54&y=2020
+2020,05.08-09.08,2.UWT,Tour de Pologne,R. Evenepoel,https://firstcycling.com/race.php?r=19&y=2020
+2020,08.08,1.UWT,Milano-Sanremo,W. van Aert,https://firstcycling.com/race.php?r=4&y=2020
+2020,12.08-16.08,2.UWT,Critérium du Dauphiné,D. Martinez,https://firstcycling.com/race.php?r=15&y=2020
+2020,15.08,1.UWT,Il Lombardia,J. Fuglsang,https://firstcycling.com/race.php?r=24&y=2020
+2020,25.08,1.UWT,Bretagne Classic,M. Matthews,https://firstcycling.com/race.php?r=22&y=2020
+2020,29.08-20.09,2.UWT,Tour de France,T. Pogacar,https://firstcycling.com/race.php?r=17&y=2020
+2020,07.09-14.09,2.UWT,Tirreno-Adriatico,S. Yates,https://firstcycling.com/race.php?r=3&y=2020
+2020,29.09-03.10,2.UWT,Renewi Tour,M. van der Poel,https://firstcycling.com/race.php?r=21&y=2020
+2020,30.09,1.UWT,La Flèche Wallonne,M. Hirschi,https://firstcycling.com/race.php?r=10&y=2020
+2020,03.10-25.10,2.UWT,Giro d'Italia,T. Geoghegan Hart,https://firstcycling.com/race.php?r=13&y=2020
+2020,04.10,1.UWT,Liège-Bastogne-Liège,P. Roglic,https://firstcycling.com/race.php?r=11&y=2020
+2020,11.10,1.UWT,Gent - Wevelgem,M. Pedersen,https://firstcycling.com/race.php?r=7&y=2020
+2020,18.10,1.UWT,Ronde van Vlaanderen,M. van der Poel,https://firstcycling.com/race.php?r=5&y=2020
+2020,20.10-08.11,2.UWT,Vuelta a España,P. Roglic,https://firstcycling.com/race.php?r=23&y=2020
+2020,21.10,1.UWT,Classic Brugge-De Panne,Y. Lampaert,https://firstcycling.com/race.php?r=40&y=2020
+2021,21.02-27.02,2.UWT,UAE Tour,T. Pogacar,https://firstcycling.com/race.php?r=9800&y=2021
+2021,27.02,1.UWT,Omloop Het Nieuwsblad,D. Ballerini,https://firstcycling.com/race.php?r=53&y=2021
+2021,06.03,1.UWT,Strade Bianche,M. van der Poel,https://firstcycling.com/race.php?r=54&y=2021
+2021,07.03-14.03,2.UWT,Paris-Nice,M. Schachmann,https://firstcycling.com/race.php?r=2&y=2021
+2021,10.03-16.03,2.UWT,Tirreno-Adriatico,T. Pogacar,https://firstcycling.com/race.php?r=3&y=2021
+2021,20.03,1.UWT,Milano-Sanremo,J. Stuyven,https://firstcycling.com/race.php?r=4&y=2021
+2021,22.03-28.03,2.UWT,Volta Catalunya,A. Yates,https://firstcycling.com/race.php?r=14&y=2021
+2021,24.03,1.UWT,Classic Brugge-De Panne,S. Bennett,https://firstcycling.com/race.php?r=40&y=2021
+2021,26.03,1.UWT,E3 Saxo Classic,K. Asgreen,https://firstcycling.com/race.php?r=47&y=2021
+2021,28.03,1.UWT,Gent - Wevelgem,W. van Aert,https://firstcycling.com/race.php?r=7&y=2021
+2021,31.03,1.UWT,Dwars door Vlaanderen,D. van Baarle,https://firstcycling.com/race.php?r=75&y=2021
+2021,04.04,1.UWT,Ronde van Vlaanderen,K. Asgreen,https://firstcycling.com/race.php?r=5&y=2021
+2021,05.04-10.04,2.UWT,Itzulia Basque Country,P. Roglic,https://firstcycling.com/race.php?r=6&y=2021
+2021,18.04,1.UWT,Amstel Gold Race,W. van Aert,https://firstcycling.com/race.php?r=9&y=2021
+2021,21.04,1.UWT,La Flèche Wallonne,J. Alaphilippe,https://firstcycling.com/race.php?r=10&y=2021
+2021,25.04,1.UWT,Liège-Bastogne-Liège,T. Pogacar,https://firstcycling.com/race.php?r=11&y=2021
+2021,27.04-02.05,2.UWT,Tour de Romandie,G. Thomas,https://firstcycling.com/race.php?r=12&y=2021
+2021,08.05-30.05,2.UWT,Giro d'Italia,E. Bernal,https://firstcycling.com/race.php?r=13&y=2021
+2021,30.05-06.06,2.UWT,Critérium du Dauphiné,R. Porte,https://firstcycling.com/race.php?r=15&y=2021
+2021,06.06-13.06,2.UWT,Tour de Suisse,R. Carapaz,https://firstcycling.com/race.php?r=16&y=2021
+2021,26.06-18.07,2.UWT,Tour de France,T. Pogacar,https://firstcycling.com/race.php?r=17&y=2021
+2021,31.07,1.UWT,San Sebastian Klasikoa,N. Powless,https://firstcycling.com/race.php?r=18&y=2021
+2021,09.08-15.08,2.UWT,Tour de Pologne,J. Almeida,https://firstcycling.com/race.php?r=19&y=2021
+2021,14.08-05.09,2.UWT,Vuelta a España,P. Roglic,https://firstcycling.com/race.php?r=23&y=2021
+2021,29.08,1.UWT,Bretagne Classic,B. Cosnefroy,https://firstcycling.com/race.php?r=22&y=2021
+2021,30.08-05.09,2.UWT,Renewi Tour,S. Colbrelli,https://firstcycling.com/race.php?r=21&y=2021
+2021,19.09,1.UWT,Eschborn-Frankfurt,J. Philipsen,https://firstcycling.com/race.php?r=35&y=2021
+2021,03.10,1.UWT,Paris-Roubaix,S. Colbrelli,https://firstcycling.com/race.php?r=8&y=2021
+2021,09.10,1.UWT,Il Lombardia,T. Pogacar,https://firstcycling.com/race.php?r=24&y=2021
+2022,20.02-26.02,2.UWT,UAE Tour,T. Pogacar,https://firstcycling.com/race.php?r=9800&y=2022
+2022,26.02,1.UWT,Omloop Het Nieuwsblad,W. van Aert,https://firstcycling.com/race.php?r=53&y=2022
+2022,05.03,1.UWT,Strade Bianche,T. Pogacar,https://firstcycling.com/race.php?r=54&y=2022
+2022,06.03-13.03,2.UWT,Paris-Nice,P. Roglic,https://firstcycling.com/race.php?r=2&y=2022
+2022,07.03-13.03,2.UWT,Tirreno-Adriatico,T. Pogacar,https://firstcycling.com/race.php?r=3&y=2022
+2022,19.03,1.UWT,Milano-Sanremo,M. Mohoric,https://firstcycling.com/race.php?r=4&y=2022
+2022,21.03-27.03,2.UWT,Volta Catalunya,S. Higuita,https://firstcycling.com/race.php?r=14&y=2022
+2022,23.03,1.UWT,Classic Brugge-De Panne,T. Merlier,https://firstcycling.com/race.php?r=40&y=2022
+2022,25.03,1.UWT,E3 Saxo Classic,W. van Aert,https://firstcycling.com/race.php?r=47&y=2022
+2022,27.03,1.UWT,Gent - Wevelgem,B. Girmay,https://firstcycling.com/race.php?r=7&y=2022
+2022,30.03,1.UWT,Dwars door Vlaanderen,M. van der Poel,https://firstcycling.com/race.php?r=75&y=2022
+2022,03.04,1.UWT,Ronde van Vlaanderen,M. van der Poel,https://firstcycling.com/race.php?r=5&y=2022
+2022,04.04-09.04,2.UWT,Itzulia Basque Country,D. Martinez,https://firstcycling.com/race.php?r=6&y=2022
+2022,10.04,1.UWT,Amstel Gold Race,M. Kwiatkowski,https://firstcycling.com/race.php?r=9&y=2022
+2022,17.04,1.UWT,Paris-Roubaix,D. van Baarle,https://firstcycling.com/race.php?r=8&y=2022
+2022,20.04,1.UWT,La Flèche Wallonne,D. Teuns,https://firstcycling.com/race.php?r=10&y=2022
+2022,24.04,1.UWT,Liège-Bastogne-Liège,R. Evenepoel,https://firstcycling.com/race.php?r=11&y=2022
+2022,26.04-01.05,2.UWT,Tour de Romandie,A. Vlasov,https://firstcycling.com/race.php?r=12&y=2022
+2022,01.05,1.UWT,Eschborn-Frankfurt,S. Bennett,https://firstcycling.com/race.php?r=35&y=2022
+2022,06.05-29.05,2.UWT,Giro d'Italia,J. Hindley,https://firstcycling.com/race.php?r=13&y=2022
+2022,05.06-12.06,2.UWT,Critérium du Dauphiné,P. Roglic,https://firstcycling.com/race.php?r=15&y=2022
+2022,12.06-19.06,2.UWT,Tour de Suisse,G. Thomas,https://firstcycling.com/race.php?r=16&y=2022
+2022,01.07-24.07,2.UWT,Tour de France,J. Vingegaard,https://firstcycling.com/race.php?r=17&y=2022
+2022,30.07,1.UWT,San Sebastian Klasikoa,R. Evenepoel,https://firstcycling.com/race.php?r=18&y=2022
+2022,30.07-05.08,2.UWT,Tour de Pologne,E. Hayter,https://firstcycling.com/race.php?r=19&y=2022
+2022,19.08-11.09,2.UWT,Vuelta a España,R. Evenepoel,https://firstcycling.com/race.php?r=23&y=2022
+2022,21.08,1.UWT,BEMER Cyclassics,M. Haller,https://firstcycling.com/race.php?r=20&y=2022
+2022,28.08,1.UWT,Bretagne Classic,W. van Aert,https://firstcycling.com/race.php?r=22&y=2022
+2022,09.09,1.UWT,GP Québec,B. Cosnefroy,https://firstcycling.com/race.php?r=59&y=2022
+2022,11.09,1.UWT,GP Montreal,T. Pogacar,https://firstcycling.com/race.php?r=58&y=2022
+2022,08.10,1.UWT,Il Lombardia,T. Pogacar,https://firstcycling.com/race.php?r=24&y=2022
+2023,17.01-22.01,2.UWT,Tour Down Under,J. Vine,https://firstcycling.com/race.php?r=1&y=2023
+2023,29.01,1.UWT,Cadel Evans Road Race,M. Mayrhofer,https://firstcycling.com/race.php?r=1172&y=2023
+2023,20.02-26.02,2.UWT,UAE Tour,R. Evenepoel,https://firstcycling.com/race.php?r=9800&y=2023
+2023,25.02,1.UWT,Omloop Het Nieuwsblad,D. van Baarle,https://firstcycling.com/race.php?r=53&y=2023
+2023,04.03,1.UWT,Strade Bianche,T. Pidcock,https://firstcycling.com/race.php?r=54&y=2023
+2023,05.03-12.03,2.UWT,Paris-Nice,T. Pogacar,https://firstcycling.com/race.php?r=2&y=2023
+2023,06.03-12.03,2.UWT,Tirreno-Adriatico,P. Roglic,https://firstcycling.com/race.php?r=3&y=2023
+2023,18.03,1.UWT,Milano-Sanremo,M. van der Poel,https://firstcycling.com/race.php?r=4&y=2023
+2023,20.03-26.03,2.UWT,Volta Catalunya,P. Roglic,https://firstcycling.com/race.php?r=14&y=2023
+2023,22.03,1.UWT,Classic Brugge-De Panne,J. Philipsen,https://firstcycling.com/race.php?r=40&y=2023
+2023,24.03,1.UWT,E3 Saxo Classic,W. van Aert,https://firstcycling.com/race.php?r=47&y=2023
+2023,26.03,1.UWT,Gent - Wevelgem,C. Laporte,https://firstcycling.com/race.php?r=7&y=2023
+2023,29.03,1.UWT,Dwars door Vlaanderen,C. Laporte,https://firstcycling.com/race.php?r=75&y=2023
+2023,02.04,1.UWT,Ronde van Vlaanderen,T. Pogacar,https://firstcycling.com/race.php?r=5&y=2023
+2023,03.04-08.04,2.UWT,Itzulia Basque Country,J. Vingegaard,https://firstcycling.com/race.php?r=6&y=2023
+2023,09.04,1.UWT,Paris-Roubaix,M. van der Poel,https://firstcycling.com/race.php?r=8&y=2023
+2023,16.04,1.UWT,Amstel Gold Race,T. Pogacar,https://firstcycling.com/race.php?r=9&y=2023
+2023,19.04,1.UWT,La Flèche Wallonne,T. Pogacar,https://firstcycling.com/race.php?r=10&y=2023
+2023,23.04,1.UWT,Liège-Bastogne-Liège,R. Evenepoel,https://firstcycling.com/race.php?r=11&y=2023
+2023,25.04-30.04,2.UWT,Tour de Romandie,A. Yates,https://firstcycling.com/race.php?r=12&y=2023
+2023,01.05,1.UWT,Eschborn-Frankfurt,S. Kragh Andersen,https://firstcycling.com/race.php?r=35&y=2023
+2023,06.05-28.05,2.UWT,Giro d'Italia,P. Roglic,https://firstcycling.com/race.php?r=13&y=2023
+2023,04.06-11.06,2.UWT,Critérium du Dauphiné,J. Vingegaard,https://firstcycling.com/race.php?r=15&y=2023
+2023,11.06-18.06,2.UWT,Tour de Suisse,M. Skjelmose,https://firstcycling.com/race.php?r=16&y=2023
+2023,01.07-23.07,2.UWT,Tour de France,J. Vingegaard,https://firstcycling.com/race.php?r=17&y=2023
+2023,29.07,1.UWT,San Sebastian Klasikoa,R. Evenepoel,https://firstcycling.com/race.php?r=18&y=2023
+2023,29.07-04.08,2.UWT,Tour de Pologne,M. Mohoric,https://firstcycling.com/race.php?r=19&y=2023
+2023,20.08,1.UWT,BEMER Cyclassics,M. Pedersen,https://firstcycling.com/race.php?r=20&y=2023
+2023,23.08-27.08,2.UWT,Renewi Tour,T. Wellens,https://firstcycling.com/race.php?r=21&y=2023
+2023,26.08-17.09,2.UWT,Vuelta a España,S. Kuss,https://firstcycling.com/race.php?r=23&y=2023
+2023,03.09,1.UWT,Bretagne Classic,V. Madouas,https://firstcycling.com/race.php?r=22&y=2023
+2023,08.09,1.UWT,GP Québec,A. De Lie,https://firstcycling.com/race.php?r=59&y=2023
+2023,10.09,1.UWT,GP Montreal,A. Yates,https://firstcycling.com/race.php?r=58&y=2023
+2023,07.10,1.UWT,Il Lombardia,T. Pogacar,https://firstcycling.com/race.php?r=24&y=2023
+2023,12.10-17.10,2.UWT,Gree - Tour of Guangxi,M. Vader,https://firstcycling.com/race.php?r=7591&y=2023
+2024,16.01-21.01,2.UWT,Tour Down Under,S. Williams,https://firstcycling.com/race.php?r=1&y=2024
+2024,28.01,1.UWT,Cadel Evans Road Race,L. Pithie,https://firstcycling.com/race.php?r=1172&y=2024
+2024,19.02-25.02,2.UWT,UAE Tour,L. Van Eetvelt,https://firstcycling.com/race.php?r=9800&y=2024
+2024,24.02,1.UWT,Omloop Het Nieuwsblad,J. Tratnik,https://firstcycling.com/race.php?r=53&y=2024
+2024,02.03,1.UWT,Strade Bianche,T. Pogacar,https://firstcycling.com/race.php?r=54&y=2024
+2024,03.03-10.03,2.UWT,Paris-Nice,M. Jorgenson,https://firstcycling.com/race.php?r=2&y=2024
+2024,04.03-10.03,2.UWT,Tirreno-Adriatico,J. Vingegaard,https://firstcycling.com/race.php?r=3&y=2024
+2024,16.03,1.UWT,Milano-Sanremo,J. Philipsen,https://firstcycling.com/race.php?r=4&y=2024
+2024,18.03-24.03,2.UWT,Volta Catalunya,T. Pogacar,https://firstcycling.com/race.php?r=14&y=2024
+2024,20.03,1.UWT,Classic Brugge-De Panne,J. Philipsen,https://firstcycling.com/race.php?r=40&y=2024
+2024,22.03,1.UWT,E3 Saxo Classic,M. van der Poel,https://firstcycling.com/race.php?r=47&y=2024
+2024,24.03,1.UWT,Gent - Wevelgem,M. Pedersen,https://firstcycling.com/race.php?r=7&y=2024
+2024,27.03,1.UWT,Dwars door Vlaanderen,M. Jorgenson,https://firstcycling.com/race.php?r=75&y=2024
+2024,31.03,1.UWT,Ronde van Vlaanderen,M. van der Poel,https://firstcycling.com/race.php?r=5&y=2024
+2024,01.04-06.04,2.UWT,Itzulia Basque Country,J. Ayuso,https://firstcycling.com/race.php?r=6&y=2024
+2024,07.04,1.UWT,Paris-Roubaix,M. van der Poel,https://firstcycling.com/race.php?r=8&y=2024
+2024,14.04,1.UWT,Amstel Gold Race,T. Pidcock,https://firstcycling.com/race.php?r=9&y=2024
+2024,17.04,1.UWT,La Flèche Wallonne,S. Williams,https://firstcycling.com/race.php?r=10&y=2024
+2024,21.04,1.UWT,Liège-Bastogne-Liège,T. Pogacar,https://firstcycling.com/race.php?r=11&y=2024
+2024,23.04-28.04,2.UWT,Tour de Romandie,C. Rodriguez,https://firstcycling.com/race.php?r=12&y=2024
+2024,01.05,1.UWT,Eschborn-Frankfurt,M. Van Gils,https://firstcycling.com/race.php?r=35&y=2024
+2024,04.05-26.05,2.UWT,Giro d'Italia,T. Pogacar,https://firstcycling.com/race.php?r=13&y=2024
+2024,02.06-09.06,2.UWT,Critérium du Dauphiné,P. Roglic,https://firstcycling.com/race.php?r=15&y=2024
+2024,09.06-16.06,2.UWT,Tour de Suisse,A. Yates,https://firstcycling.com/race.php?r=16&y=2024
+2024,29.06-21.07,2.UWT,Tour de France,T. Pogacar,https://firstcycling.com/race.php?r=17&y=2024
+2024,10.08,1.UWT,San Sebastian Klasikoa,M. Hirschi,https://firstcycling.com/race.php?r=18&y=2024
+2024,12.08-18.08,2.UWT,Tour de Pologne,J. Vingegaard,https://firstcycling.com/race.php?r=19&y=2024
+2024,17.08-08.09,2.UWT,Vuelta a España,P. Roglic,https://firstcycling.com/race.php?r=23&y=2024
+2024,25.08,1.UWT,Bretagne Classic,M. Hirschi,https://firstcycling.com/race.php?r=22&y=2024
+2024,28.08-01.09,2.UWT,Renewi Tour,T. Wellens,https://firstcycling.com/race.php?r=21&y=2024
+2024,08.09,1.UWT,BEMER Cyclassics,O. Kooij,https://firstcycling.com/race.php?r=20&y=2024
+2024,13.09,1.UWT,GP Québec,M. Matthews,https://firstcycling.com/race.php?r=59&y=2024
+2024,15.09,1.UWT,GP Montreal,T. Pogacar,https://firstcycling.com/race.php?r=58&y=2024
+2024,12.10,1.UWT,Il Lombardia,T. Pogacar,https://firstcycling.com/race.php?r=24&y=2024
+2024,15.10-20.10,2.UWT,Gree - Tour of Guangxi,L. Van Eetvelt,https://firstcycling.com/race.php?r=7591&y=2024
+2025,21.01-26.01,2.UWT,Tour Down Under,,https://firstcycling.com/race.php?r=1&y=2025
+2025,02.02,1.UWT,Cadel Evans Road Race,,https://firstcycling.com/race.php?r=1172&y=2025
+2025,17.02-23.02,2.UWT,UAE Tour,,https://firstcycling.com/race.php?r=9800&y=2025
+2025,01.03,1.UWT,Omloop Nieuwsblad,,https://firstcycling.com/race.php?r=53&y=2025
+2025,08.03,1.UWT,Strade Bianche,,https://firstcycling.com/race.php?r=54&y=2025
+2025,09.03-16.03,2.UWT,Paris-Nice,,https://firstcycling.com/race.php?r=2&y=2025
+2025,10.03-16.03,2.UWT,Tirreno-Adriatico,,https://firstcycling.com/race.php?r=3&y=2025
+2025,22.03,1.UWT,Milano-Sanremo,,https://firstcycling.com/race.php?r=4&y=2025
+2025,24.03-30.03,2.UWT,Volta Catalunya,,https://firstcycling.com/race.php?r=14&y=2025
+2025,26.03,1.UWT,Classic Brugge-De Panne,,https://firstcycling.com/race.php?r=40&y=2025
+2025,28.03,1.UWT,E3 Saxo Classic,,https://firstcycling.com/race.php?r=47&y=2025
+2025,30.03,1.UWT,Gent - Wevelgem,,https://firstcycling.com/race.php?r=7&y=2025
+2025,02.04,1.UWT,Dwars door Vlaanderen,,https://firstcycling.com/race.php?r=75&y=2025
+2025,06.04,1.UWT,Ronde van Vlaanderen,,https://firstcycling.com/race.php?r=5&y=2025
+2025,07.04-12.04,2.UWT,Itzulia Basque Country,,https://firstcycling.com/race.php?r=6&y=2025
+2025,13.04,1.UWT,Paris-Roubaix,,https://firstcycling.com/race.php?r=8&y=2025
+2025,20.04,1.UWT,Amstel Gold Race,,https://firstcycling.com/race.php?r=9&y=2025
+2025,23.04,1.UWT,La Flèche Wallonne,,https://firstcycling.com/race.php?r=10&y=2025
+2025,27.04,1.UWT,Liège-Bastogne-Liège,,https://firstcycling.com/race.php?r=11&y=2025
+2025,29.04-04.05,2.UWT,Tour de Romandie,,https://firstcycling.com/race.php?r=12&y=2025
+2025,01.05,1.UWT,Eschborn-Frankfurt,,https://firstcycling.com/race.php?r=35&y=2025
+2025,09.05-01.06,2.UWT,Giro d'Italia,,https://firstcycling.com/race.php?r=13&y=2025
+2025,08.06-15.06,2.UWT,Critérium du Dauphiné,,https://firstcycling.com/race.php?r=15&y=2025
+2025,15.06-22.06,2.UWT,Tour de Suisse,,https://firstcycling.com/race.php?r=16&y=2025
+2025,22.06,1.UWT,Copenhagen Sprint,,https://firstcycling.com/race.php?r=24060&y=2025
+2025,05.07-27.07,2.UWT,Tour de France,,https://firstcycling.com/race.php?r=17&y=2025
+2025,02.08,1.UWT,San Sebastian Klasikoa,,https://firstcycling.com/race.php?r=18&y=2025
+2025,04.08-10.08,2.UWT,Tour de Pologne,,https://firstcycling.com/race.php?r=19&y=2025
+2025,17.08,1.UWT,BEMER Cyclassics,,https://firstcycling.com/race.php?r=20&y=2025
+2025,20.08-24.08,2.UWT,Renewi Tour,,https://firstcycling.com/race.php?r=21&y=2025
+2025,23.08-14.09,2.UWT,Vuelta a España,,https://firstcycling.com/race.php?r=23&y=2025
+2025,31.08,1.UWT,Bretagne Classic,,https://firstcycling.com/race.php?r=22&y=2025
+2025,12.09,1.UWT,GP Québec,,https://firstcycling.com/race.php?r=59&y=2025
+2025,14.09,1.UWT,GP Montreal,,https://firstcycling.com/race.php?r=58&y=2025
+2025,11.10,1.UWT,Il Lombardia,,https://firstcycling.com/race.php?r=24&y=2025
+2025,14.10-19.10,2.UWT,Gree - Tour of Guangxi,,https://firstcycling.com/race.php?r=7591&y=2025
