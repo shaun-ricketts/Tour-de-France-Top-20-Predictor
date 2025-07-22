@@ -38,35 +38,44 @@ README.md           - This file
 
 ## Getting Started
 
-Installation steps:
+To run the notebooks, you'll need Jupyter Notebook installed. You have two options:
+Option 1: Install Anaconda – it comes with Jupyter Notebook and most data science packages pre-installed.
+Download link: https://www.anaconda.com/products/distribution
+After installing Anaconda, launch Anaconda Navigator and open Jupyter Notebook from there.
+
+Option 2: Install via pip
+If you're using a regular Python setup:
+pip install notebook
+Then launch it with:
+jupyter notebook
+
+After installing Jupyter Notebook:
 
 1. Clone the repository:
    git clone https://github.com/shaun-ricketts/Tour-de-France-Top-20-Predictor.git
    cd Tour-de-France-Top-20-Predictor
 
 2. (Optional) Create a virtual environment:
-   python -m venv venv
-   source venv/bin/activate     (On Windows: venv\Scripts\activate)
+In Anaconda Navigator:
+   - Go to the "Environments" tab on the left panel.
+   - Click the "Create" button (bottom left).
+   - Give your environment a name (e.g., tdf-env) and choose a Python version (e.g., 3.9).
+   - Click "Create" — it may take a minute to set up.
+After it’s created, select the environment and click "Open With" → "Notebook" to launch Jupyter using that environment.
 
-3. Install dependencies:
-   pip install -r requirements.txt
+Alternatively in cmd:
+python -m venv venv
+venv\Scripts\activate
+
+in bash:
+python3 -m venv venv
+source venv/bin/activate
 
 ## Dependencies
 
-The project uses the following libraries:
+All required packages are listed in requirements.txt.
 
-- pandas              (data manipulation)
-- numpy               (numerical operations)
-- matplotlib, seaborn (data visualization)
-- scikit-learn        (model training and evaluation)
-- statsmodels         (statistical testing and regression)
-- joblib              (model persistence)
-- shap                (model interpretability)
-- xgboost, lightgbm, catboost (ensemble models)
-- imbalanced-learn    (class imbalance handling)
-- Unidecode           (text normalization for rider names)
-
-Install with:
+To install via pip:
 pip install -r requirements.txt
 
 ## Data
@@ -78,36 +87,55 @@ pip install -r requirements.txt
 
 ## Model Workflow
 
-- Load and explore data using notebooks
-- Perform feature engineering
-- Train and evaluate models (XGBoost, LightGBM, CatBoost, etc.)
-- Run and save models to "Models/" directory
-
-You can run the model using the appropriate notebook
+- Notebooks are ordered 0-8 and should be run in order, starting with 00_Data_Prep (this transforms raw files into a single processed file)
+- 01 is for exploratory data analysis
+- 02 - 04 tests different logic for replacing null data, data ranges and feature engineering
+- 05 trains and evaluates different models (XGBoost, RandomForest, LightGBM, CatBoost, etc.)
+- 06 performs hyperparameter testing for the best model(s)
+- 07 runs and saves models to "Models/" directory
+- 08 deploys saved model on new data
 
 ## Running the Model
 
-Example of model run shown in notebook "08_Model_Run_2025.ipynb", using the models from the Models folder
+To generate 2025 Tour de France predictions:
+
+- Run 08_Model_Run_2025.ipynb
+- This will load the trained model and output the predicted top 20
+
+Alternatively, you can rerun the entire pipeline using the sample data provided. Start from 00_Data_Prep.ipynb and proceed through the notebooks in order to train your own model (results will differ due to the reduced dataset).
 
 ## Limitations and Future Improvements
 
 ### Limitations
 
-- **Incomplete dataset**: The dataset is a reduced sample (40%) and does not represent the full rider pool from the original model. This will affect the accuracy of the predictions.
-- **Missing contextual features**: The model does not currently account for a rider's role in the team (team leader, domestique, etc), which will affect each rider's motivation for the overall GC. There are many other factors which are difficult to account for in professional cycling, such as the weather, crashes, course terrain (the race changes each year in overall distance, meters of elevation, time-trial kms), etc. 
+- Incomplete dataset: The dataset is a reduced sample (40%) and does not represent the full rider pool from the original model. This will affect the accuracy of the predictions. (Only applies if run using newly created models).
+- Missing contextual features, the model does not currently account for:
+- a rider's role in the team (team leader, domestique, etc), which will affect each rider's motivation for the overall GC.
+- Likelihood of crashes/DNF
+- Illness
+- Team Goal and Tactics
+- Team Strength
 
 ### Potential Improvements
 
-- Test adding Weights to WT and PT races, as some races may be stronger predictors to the Tour than others
-- Investigate other factors such as team strength, role in the team (e.g. Leader, Domestique, etc.), likelihood of DNFing, kms raced or number of races ridden prior to Tour start
-- Build a model more specialised model to predict the likelihood of each rider winning
-- Develop a simple UI or dashboard to visualise predictions
+- Test adding Weights to WT and PT races, as some races may be stronger predictors to the Tour than others, e.g. Criterium du Dauphine is likely to be a stronger predictor than Tour down Under.
+- Investigate other factors such as team strength, role in the team (e.g. Leader, Domestique, etc.), likelihood of DNFing, kms raced or number of races ridden prior to Tour start.
+- Build a model more specialised model to predict the likelihood of each rider winning.
+- Develop a simple UI or dashboard to visualise predictions.
+- Investigate other prediction techniques such as Cox proportional hazards model or Bayesian survival model for likelihood of a rider DNFing.
 
 ## License
 
 All rights reserved © 2025 Shaun Ricketts.
 
-This software is provided for personal, non-commercial viewing purposes only. You may not copy, modify, distribute, sublicense, or create derivative works without explicit written permission from the author.
+This software is provided for **personal, non-commercial use** only.
 
-See the LICENSE file for full details.
+You are free to:
+- Download and run the code locally
+- Use the project for learning, experimentation, and analysis
 
+You may not:
+- Use any part of this code for commercial purposes
+- Distribute, sublicense, or create derivative works without explicit written permission
+
+See the LICENSE file for full terms.
