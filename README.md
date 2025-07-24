@@ -23,18 +23,18 @@ Additionally, the model considers riders’ performances in the Tour de France o
 
 ## Project Structure
 
-Data/
--  Raw/            - Sample CSV data (40% subset of full dataset)
--  Processed/      - Output of Data_Prep.py on raw files
+- Data/
+   -  Raw/            - Sample CSV data (40% subset of full dataset)
+   -  Processed/      - Output of Data_Prep.py on raw files
 
-Models/             - Trained model files
-Notebooks/          - Jupyter notebooks for EDA, training, evaluation
-src/                - Reusable Python modules
+- Models/             - Trained model files
+- Notebooks/          - Jupyter notebooks for EDA, training, evaluation
+- src/                - Reusable Python modules
 
-requirements.txt    - Python dependencies
-.gitignore          - Specifies files and folders to be ignored by Git
-LICENSE             - MIT License
-README.md           - This file
+- requirements.txt    - Python dependencies
+- .gitignore          - Specifies files and folders to be ignored by Git
+- LICENSE             - MIT License
+- README.md           - This file
 
 ## Getting Started
 
