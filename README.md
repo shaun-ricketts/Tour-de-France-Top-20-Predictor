@@ -24,8 +24,8 @@ Additionally, the model considers riders’ performances in the Tour de France o
 ## Project Structure
 
 Data/
-  Raw/            - Sample CSV data (40% subset of full dataset)
-  Processed/      - Output of Data_Prep.py on raw files
+-  Raw/            - Sample CSV data (40% subset of full dataset)
+-  Processed/      - Output of Data_Prep.py on raw files
 
 Models/             - Trained model files
 Notebooks/          - Jupyter notebooks for EDA, training, evaluation
@@ -39,9 +39,10 @@ README.md           - This file
 ## Getting Started
 
 To run the notebooks, you'll need Jupyter Notebook installed. You have two options:
+
 Option 1: Install Anaconda – it comes with Jupyter Notebook and most data science packages pre-installed.
 Download link: https://www.anaconda.com/products/distribution
-After installing Anaconda, launch Anaconda Navigator and open Jupyter Notebook from there.
+After installing Anaconda, launch Anaconda Navigator.
 
 Option 2: Install via pip
 If you're using a regular Python setup:
@@ -59,9 +60,11 @@ After installing Jupyter Notebook:
 In Anaconda Navigator:
    - Go to the "Environments" tab on the left panel.
    - Click the "Create" button (bottom left).
-   - Give your environment a name (e.g., tdf-env) and choose a Python version (e.g., 3.9).
+   - Give your environment a name (e.g. tdf-env) and choose a Python version (3.9 recommended).
    - Click "Create" — it may take a minute to set up.
-After it’s created, select the environment and click "Open With" → "Notebook" to launch Jupyter using that environment.
+
+After it’s created, select the environment and click "Open Terminal" and run "conda install notebook -c conda-forge
+" to install jupyter notebook in this environment. Then, go your project location (e.g. cd "C:\Users\your-name\Tour-de-France-Top-20-Predictor") and run "pip install -r requirements.txt". 
 
 Alternatively in cmd:
 python -m venv venv
