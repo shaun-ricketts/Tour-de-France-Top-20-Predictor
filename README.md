@@ -65,6 +65,7 @@ In Anaconda Navigator:
 
 After it’s created, select the environment and click "Open Terminal" and run "conda install notebook -c conda-forge
 " to install jupyter notebook in this environment. Then, go your project location (e.g. cd "C:\Users\your-name\Tour-de-France-Top-20-Predictor") and run "pip install -r requirements.txt". 
+Now go back to Anaconda Navigator and on the newly created env, select "Open with Jupyter NotebooK". Then navigate to the project location to run the notebooks.
 
 Alternatively in cmd:
 python -m venv venv
