@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The aim of this project is to predict the final standings of the Tour de France. Initially, I planned to use a linear model to predict each rider’s overall time, with a top-20 likelihood prediction as a secondary feature. However, after testing multiple approaches, I found that logistic models outperformed linear ones in predicting whether a rider would finish inside the top 20. As a result, I made this the primary focus of the project.
+The aim of this project is to predict the final standings of the Tour de France. Initially, I planned to use a linear regression model to predict each rider’s overall position, with a secondary feature estimating their likelihood of finishing in the top 20. However, I found that treating this as a classification task, i.e. likelihood of finishing top 20, gave better results than trying to model exact finishing position. As a result, I shifted the project’s primary focus to classification.
 
 All of the data was self-collected via web scraping scripts I wrote using the cycling database site firstcycling.com. *(Note: the scraping code is not included in this repository.)*
 
@@ -23,7 +23,7 @@ There are also secondary competitions:
 
 The Tour typically begins in early July. My model uses each rider’s best results in races leading up to the Tour, focusing on one-week stage races. These are categorised as WorldTour or ProTour — the first and second tiers of professional road cycling.
 
-Additionally, the model considers riders’ performances in the Tour de France over the past three years, as well as their results in the Giro d’Italia and Vuelta a España, the only other three-week races in the professional calendar. These Grand Tours provide stronger signals for potential success at the Tour de France than shorter races.
+Additionally, the model considers riders’ performances in the Tour de France over the past three years, as well as their results in the Giro d’Italia and Vuelta a España, the only other three-week races in the professional calendar.
 
 ---
 
